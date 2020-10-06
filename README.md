@@ -1,4 +1,4 @@
-# Notes in WIKI format
+# SVE/2 Information in WIKI format
 
 See https://github.com/AshokBhat/sve/wiki
 
