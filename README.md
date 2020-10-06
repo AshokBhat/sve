@@ -1,3 +1,8 @@
-# sve
+# Notes in WIKI format
 
-Information on SVE/SVE2 based on public sources
+See https://github.com/AshokBhat/sve/wiki
+
+Publically available information on SVE/SVE2 in a simple, easily digestable, high-level overview format.
+
+
+
